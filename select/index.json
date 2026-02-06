@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "矛盾",
+  "base_artist": "z²",
+  "createdAt": "2026-02-06T05:13:47.232697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "矛盾 - Live",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/01_矛盾_-_Live_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "Hebe Tien",
+      "has_synced": true,
+      "path": "select/02_矛盾_Hebe_Tien.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "Tam, Alan",
+      "has_synced": false,
+      "path": "select/03_矛盾_Tam,_Alan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "林子祥",
+      "has_synced": false,
+      "path": "select/04_矛盾_林子祥.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "Alan Tam",
+      "has_synced": false,
+      "path": "select/05_矛盾_Alan_Tam.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/06_矛盾_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "游鸿明",
+      "has_synced": false,
+      "path": "select/07_矛盾_游鸿明.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "谭咏麟",
+      "has_synced": false,
+      "path": "select/08_矛盾_谭咏麟.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "矛盾 - Live",
+      "artist": "譚詠麟",
+      "has_synced": false,
+      "path": "select/09_矛盾_-_Live_譚詠麟.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "譚詠麟",
+      "has_synced": false,
+      "path": "select/10_矛盾_譚詠麟.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "矛盾 (Live)",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/11_矛盾_(Live)_田馥甄.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "矛盾 (Mao Dun) [Contradiction]",
+      "artist": "Hebe Tian",
+      "has_synced": true,
+      "path": "select/12_矛盾_(Mao_Dun)_[Contradiction]_Hebe_Tian.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "矛盾、はじめました。(inst)",
+      "artist": "Negicco",
+      "has_synced": false,
+      "path": "select/13_矛盾、はじめました。(inst)_Negicco.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "矛盾、はじめました。",
+      "artist": "Negicco",
+      "has_synced": false,
+      "path": "select/14_矛盾、はじめました。_Negicco.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "游鴻明",
+      "has_synced": false,
+      "path": "select/15_矛盾_游鴻明.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "矛盾",
+      "artist": "Hebe Tian",
+      "has_synced": true,
+      "path": "select/16_矛盾_Hebe_Tian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "矛盾 (Stariah Remix)",
+      "artist": "z² & Stariah",
+      "has_synced": false,
+      "path": "select/pl_01_矛盾_(Stariah_Remix)_z2_&_Stariah.txt"
+    }
+  ]
+}
